@@ -33,4 +33,4 @@ while True:
         print('Program selesai, sampai jumpa!')
         break
     else:
-        print('Menu tidak tersedia')
+        print('Masukkan yang bener dong saya pusing nih')
